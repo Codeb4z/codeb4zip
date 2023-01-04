@@ -347,6 +347,8 @@ def passwrd():
 					pwv.append(frs+'anas1234')
 					pwv.append(frs+'mustafa123')
 					pwv.append(frs+'mustafa1234')
+                                        pwv.append(frs+'zana123')
+
 					pwv.append(frs+'112233445566')
 			if 'ya' in pwpluss:
 				for xpwd in pwnya:
